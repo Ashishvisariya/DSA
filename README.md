@@ -10,6 +10,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashishvisariya/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Ashishvisariya/DSA/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -26,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashishvisariya/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Ashishvisariya/DSA/tree/master/0058-length-of-last-word) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashishvisariya/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Linked List
@@ -40,4 +42,8 @@
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/Ashishvisariya/DSA/tree/master/2235-add-two-integers) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashishvisariya/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
