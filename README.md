@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/Ashishvisariya/DSA/tree/master/2235-add-two-integers) |
+| [2427-number-of-common-factors](https://github.com/Ashishvisariya/DSA/tree/master/2427-number-of-common-factors) |
 ## String Matching
 |  |
 | ------- |
@@ -62,4 +63,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashishvisariya/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Ashishvisariya/DSA/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Ashishvisariya/DSA/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
