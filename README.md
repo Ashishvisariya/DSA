@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashishvisariya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/Ashishvisariya/DSA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Ashishvisariya/DSA/tree/master/0217-contains-duplicate) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashishvisariya/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ashishvisariya/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ashishvisariya/DSA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Ashishvisariya/DSA/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ashishvisariya/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Ashishvisariya/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
