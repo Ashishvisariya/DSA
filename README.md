@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashishvisariya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/Ashishvisariya/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ashishvisariya/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ashishvisariya/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ashishvisariya/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ashishvisariya/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Ashishvisariya/DSA/tree/master/0283-move-zeroes) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Ashishvisariya/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ashishvisariya/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ashishvisariya/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ashishvisariya/DSA/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
@@ -34,6 +36,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashishvisariya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Ashishvisariya/DSA/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -96,6 +99,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ashishvisariya/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ashishvisariya/DSA/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -105,4 +109,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Ashishvisariya/DSA/tree/master/0509-fibonacci-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ashishvisariya/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
