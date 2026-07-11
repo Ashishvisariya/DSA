@@ -48,10 +48,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ashishvisariya/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/Ashishvisariya/DSA/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Ashishvisariya/DSA/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Ashishvisariya/DSA/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/Ashishvisariya/DSA/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/Ashishvisariya/DSA/tree/master/2427-number-of-common-factors) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ashishvisariya/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -95,4 +97,12 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Ashishvisariya/DSA/tree/master/0217-contains-duplicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ashishvisariya/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ashishvisariya/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
