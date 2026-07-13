@@ -45,6 +45,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashishvisariya/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Ashishvisariya/DSA/tree/master/0058-length-of-last-word) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashishvisariya/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3889-mirror-frequency-distance](https://github.com/Ashishvisariya/DSA/tree/master/3889-mirror-frequency-distance) |
 ## Linked List
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [0169-majority-element](https://github.com/Ashishvisariya/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ashishvisariya/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ashishvisariya/DSA/tree/master/0229-majority-element-ii) |
+| [3889-mirror-frequency-distance](https://github.com/Ashishvisariya/DSA/tree/master/3889-mirror-frequency-distance) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,4 +119,5 @@
 | ------- |
 | [0169-majority-element](https://github.com/Ashishvisariya/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ashishvisariya/DSA/tree/master/0229-majority-element-ii) |
+| [3889-mirror-frequency-distance](https://github.com/Ashishvisariya/DSA/tree/master/3889-mirror-frequency-distance) |
 <!---LeetCode Topics End-->
