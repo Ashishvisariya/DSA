@@ -75,14 +75,17 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashishvisariya/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/Ashishvisariya/DSA/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashishvisariya/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/Ashishvisariya/DSA/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashishvisariya/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/Ashishvisariya/DSA/tree/master/0112-path-sum) |
 ## Enumeration
 |  |
 | ------- |
@@ -120,4 +123,8 @@
 | [0169-majority-element](https://github.com/Ashishvisariya/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ashishvisariya/DSA/tree/master/0229-majority-element-ii) |
 | [3889-mirror-frequency-distance](https://github.com/Ashishvisariya/DSA/tree/master/3889-mirror-frequency-distance) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Ashishvisariya/DSA/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
