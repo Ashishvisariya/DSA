@@ -4,5 +4,12 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        return n
+        def gcd(a, b):
+            while b:
+                a, b = b, a % b
+            return a
+        e = n*n
+        o = n *(n+1)
+        return gcd(e,o)
+        
         
