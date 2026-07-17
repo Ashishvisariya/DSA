@@ -1,8 +1,12 @@
 class Solution(object):
     def firstUniqueEven(self, nums):
-        from collections import Counter
-        freq = Counter(nums)
-        for num in nums:
-            if num % 2 == 0 and freq[num] == 1:
-                return num
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        for i in nums:
+            if nums.count(i) == 1 and i % 2 == 0:
+                return i
+        
         return -1
+        
