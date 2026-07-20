@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/Ashishvisariya/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ashishvisariya/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Ashishvisariya/DSA/tree/master/0283-move-zeroes) |
+| [1260-shift-2d-grid](https://github.com/Ashishvisariya/DSA/tree/master/1260-shift-2d-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashishvisariya/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashishvisariya/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashishvisariya/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -121,6 +122,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Ashishvisariya/DSA/tree/master/1260-shift-2d-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ashishvisariya/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -155,6 +157,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Ashishvisariya/DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashishvisariya/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
