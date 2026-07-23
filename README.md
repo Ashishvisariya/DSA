@@ -18,6 +18,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashishvisariya/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashishvisariya/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ashishvisariya/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Ashishvisariya/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3866-first-unique-even-element](https://github.com/Ashishvisariya/DSA/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashishvisariya/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ashishvisariya/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -79,6 +80,7 @@
 | [2235-add-two-integers](https://github.com/Ashishvisariya/DSA/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/Ashishvisariya/DSA/tree/master/2427-number-of-common-factors) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashishvisariya/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Ashishvisariya/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashishvisariya/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ashishvisariya/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashishvisariya/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -186,4 +188,8 @@
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ashishvisariya/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Ashishvisariya/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
