@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/Ashishvisariya/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ashishvisariya/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Ashishvisariya/DSA/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ashishvisariya/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Ashishvisariya/DSA/tree/master/1260-shift-2d-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashishvisariya/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashishvisariya/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -40,6 +41,7 @@
 | [0169-majority-element](https://github.com/Ashishvisariya/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ashishvisariya/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ashishvisariya/DSA/tree/master/0229-majority-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ashishvisariya/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ashishvisariya/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashishvisariya/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -78,6 +80,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Ashishvisariya/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Ashishvisariya/DSA/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ashishvisariya/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashishvisariya/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Ashishvisariya/DSA/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/Ashishvisariya/DSA/tree/master/2427-number-of-common-factors) |
