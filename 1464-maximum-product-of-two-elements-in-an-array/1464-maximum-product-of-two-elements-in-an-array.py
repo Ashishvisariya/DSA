@@ -4,13 +4,13 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        m1 = float('-inf')
-        m2 = float('-inf')
-        for i in nums:
-            if m1 <= i:
-                m2 = m1
-                m1 = i
-            elif m2 <= i:
-                m2 = i
-            
-        return (m1 - 1)*(m2-1)
+        max1 = float('-inf')
+        max2 = float('-inf')
+        
+        for num in nums:
+            if max1 <= num:
+                max2 = max1
+                max1 = num
+            elif max2 <= num:
+                max2 = num
+        return (max1-1)*(max2-1)
