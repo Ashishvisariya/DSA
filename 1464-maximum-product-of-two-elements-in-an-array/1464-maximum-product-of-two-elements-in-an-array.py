@@ -4,8 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        m1 = 1
-        m2 = 1
+        m1 = float('-inf')
+        m2 = float('-inf')
         for i in nums:
             if m1 <= i:
                 m2 = m1
