@@ -66,6 +66,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Ashishvisariya/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ashishvisariya/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashishvisariya/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashishvisariya/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ashishvisariya/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ashishvisariya/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashishvisariya/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -88,6 +89,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashishvisariya/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Ashishvisariya/DSA/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/Ashishvisariya/DSA/tree/master/2427-number-of-common-factors) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashishvisariya/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashishvisariya/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ashishvisariya/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ashishvisariya/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -191,6 +193,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Ashishvisariya/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ashishvisariya/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashishvisariya/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
 | ------- |
