@@ -21,6 +21,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashishvisariya/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashishvisariya/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashishvisariya/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashishvisariya/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashishvisariya/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ashishvisariya/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ashishvisariya/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Ashishvisariya/DSA/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashishvisariya/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashishvisariya/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
