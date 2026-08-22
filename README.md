@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ashishvisariya/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashishvisariya/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Ashishvisariya/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Ashishvisariya/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ashishvisariya/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ashishvisariya/DSA/tree/master/0088-merge-sorted-array) |
@@ -34,6 +35,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ashishvisariya/DSA/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashishvisariya/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Ashishvisariya/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ashishvisariya/DSA/tree/master/0075-sort-colors) |
@@ -45,6 +47,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ashishvisariya/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Ashishvisariya/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ashishvisariya/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ashishvisariya/DSA/tree/master/0169-majority-element) |
