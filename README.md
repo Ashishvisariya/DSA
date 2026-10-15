@@ -23,6 +23,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashishvisariya/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashishvisariya/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashishvisariya/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ashishvisariya/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashishvisariya/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashishvisariya/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ashishvisariya/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -181,6 +182,7 @@
 | [0169-majority-element](https://github.com/Ashishvisariya/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ashishvisariya/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Ashishvisariya/DSA/tree/master/0229-majority-element-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ashishvisariya/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashishvisariya/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/Ashishvisariya/DSA/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Ashishvisariya/DSA/tree/master/3866-first-unique-even-element) |
@@ -238,6 +240,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ashishvisariya/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ashishvisariya/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
@@ -257,4 +260,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ashishvisariya/DSA/tree/master/0836-rectangle-overlap) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ashishvisariya/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
