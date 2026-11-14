@@ -107,6 +107,7 @@
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Ashishvisariya/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Ashishvisariya/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Ashishvisariya/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashishvisariya/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashishvisariya/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Ashishvisariya/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/Ashishvisariya/DSA/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashishvisariya/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Ashishvisariya/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/Ashishvisariya/DSA/tree/master/0112-path-sum) |
 ## Enumeration
 |  |
@@ -193,6 +196,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Ashishvisariya/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Ashishvisariya/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashishvisariya/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Ashishvisariya/DSA/tree/master/0509-fibonacci-number) |
@@ -267,4 +271,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ashishvisariya/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Ashishvisariya/DSA/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
