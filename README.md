@@ -42,6 +42,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ashishvisariya/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Ashishvisariya/DSA/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashishvisariya/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Ashishvisariya/DSA/tree/master/0031-next-permutation) |
@@ -85,6 +86,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ashishvisariya/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashishvisariya/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Ashishvisariya/DSA/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/Ashishvisariya/DSA/tree/master/0316-remove-duplicate-letters) |
@@ -198,6 +200,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ashishvisariya/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0096-unique-binary-search-trees](https://github.com/Ashishvisariya/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Ashishvisariya/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashishvisariya/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -279,4 +282,8 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Ashishvisariya/DSA/tree/master/0096-unique-binary-search-trees) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ashishvisariya/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
