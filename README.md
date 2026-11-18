@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/Ashishvisariya/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Ashishvisariya/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ashishvisariya/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Ashishvisariya/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Ashishvisariya/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Ashishvisariya/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashishvisariya/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -259,6 +260,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ashishvisariya/DSA/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Ashishvisariya/DSA/tree/master/0190-reverse-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ashishvisariya/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ashishvisariya/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -286,4 +288,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ashishvisariya/DSA/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ashishvisariya/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
