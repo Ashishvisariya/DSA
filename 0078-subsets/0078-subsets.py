@@ -1,18 +1,18 @@
-class Solution(object):
+class Solution:
     def subsets(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[List[int]]
-        """
         result = []
-        n = len(nums)
-        total = 1<<n
+        current = []
 
-        for num in range(total):
-            pack = []
-            for i in range(0,n):
-                if num & (1<<i)!= 0:
+        def backtrack(start):
+            result.append(current[:])
 
-                    pack.append(nums[i])
-            result.append(pack)
-        return result 
+            for i in range(start, len(nums)):
+                current.append(nums[i])
+
+                backtrack(i + 1)
+
+                current.pop()
+
+        backtrack(0)
+
+        return result
