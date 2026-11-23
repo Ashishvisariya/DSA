@@ -22,6 +22,7 @@
 | [0283-move-zeroes](https://github.com/Ashishvisariya/DSA/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashishvisariya/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Ashishvisariya/DSA/tree/master/1260-shift-2d-grid) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ashishvisariya/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashishvisariya/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ashishvisariya/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashishvisariya/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -120,6 +121,7 @@
 | [0509-fibonacci-number](https://github.com/Ashishvisariya/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashishvisariya/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Ashishvisariya/DSA/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ashishvisariya/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ashishvisariya/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashishvisariya/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Ashishvisariya/DSA/tree/master/2235-add-two-integers) |
@@ -241,6 +243,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ashishvisariya/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ashishvisariya/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashishvisariya/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Greedy
@@ -296,4 +299,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ashishvisariya/DSA/tree/master/0078-subsets) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ashishvisariya/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ashishvisariya/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
