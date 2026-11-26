@@ -1,13 +1,11 @@
 class Solution(object):
     def canAliceWin(self, n):
-        """
-        :type n: int
-        :rtype: bool
-        """
-        m=10
-        t=0
-        while n>=m:
-            n-=m
-            m-=1
-            t=1-t
-        return t!=0
+        remove = 10
+        alice_turn = True
+
+        while n >= remove:
+            n -= remove
+            remove -= 1
+            alice_turn = not alice_turn
+
+        return not alice_turn
