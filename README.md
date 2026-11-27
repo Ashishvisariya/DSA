@@ -43,6 +43,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashishvisariya/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ashishvisariya/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Ashishvisariya/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ashishvisariya/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -218,6 +219,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashishvisariya/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Ashishvisariya/DSA/tree/master/0509-fibonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ashishvisariya/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ashishvisariya/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Memoization
 |  |
 | ------- |
@@ -260,6 +262,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashishvisariya/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ashishvisariya/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ashishvisariya/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ashishvisariya/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Monotonic Stack
 |  |
 | ------- |
